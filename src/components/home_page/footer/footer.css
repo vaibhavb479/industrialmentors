@@ -1,0 +1,15 @@
+.main{
+    background-color: #091f49;
+}
+.footer-head, h6{
+    color: rgb(206, 212, 216);
+}
+.footer-head p,.contact p,a{
+    color: rgb(174, 180, 185);
+}
+a:hover{
+    color: rgb(247, 250, 252);
+}
+.get-app p{
+    padding-bottom: -200px;
+}

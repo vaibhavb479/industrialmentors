@@ -1,0 +1,45 @@
+
+*{
+    font-family: poppins;
+}
+
+.slider{
+    height: 200px;
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+    width: auto;
+    box-shadow: #F8F0E5;
+    
+
+}
+
+@keyframes scroll{
+    0%{
+        transform: translateX(0);
+    }
+    100%{
+        transform: translateX(calc(-200px*7));
+    }
+
+}
+.slider .slide-track{
+    animation: scroll 35s linear infinite;
+    display: flex;
+    width: calc(250*2);
+    
+
+}
+.slider .slide {
+    margin: 55px;
+    filter: contrast(80%) opacity(50%) grayscale(100%);
+    
+}
+
+.slide-track:hover{
+    animation-play-state: paused;
+    
+}
+.slide:hover{
+    filter: none;
+}

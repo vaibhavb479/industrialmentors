@@ -1,0 +1,132 @@
+{
+  "courses": [
+    {
+      "path":"UI-UX-Designer-Product-Designer-300x225.png",
+      "courseName": "Web Development Course",
+      "description": "Learn front-end and back-end web development.",
+      "duration": "6 months",
+      "instructor": "John Doe",
+      "enrollmentCount": 250
+    },
+    {
+      "path":"Java-Full-Stack-Ved-300x225.png",
+      "courseName": "Java Programming Course",
+      "description": "Master the Java programming language.",
+      "duration": "4 months",
+      "instructor": "Jane Smith",
+      "enrollmentCount": 180
+    },
+    {
+      "path":"Python-Full-Stack-Ved-300x225.png",
+      "courseName": "Python Full Stack Development Course",
+      "description": "Become a Python full-stack developer.",
+      "duration": "8 months",
+      "instructor": "Michael Johnson",
+      "enrollmentCount": 300
+    },
+    {      
+      "path":"Dot-Net-Full-Stack-Ved-300x225.png",
+      "courseName": ".NET Full Stack Development Course",
+      "description": "Learn .NET stack development.",
+      "duration": "7 months",
+      "instructor": "Emily Brown",
+      "enrollmentCount": 220
+    },
+    {
+      "path":"Mobile-Development-_Android-IOS-300x225.png",
+      "courseName": "Mobile Development (Android & iOS)",
+      "description": "Build mobile apps for Android and iOS platforms.",
+      "duration": "9 months",
+      "instructor": "David Wilson",
+      "enrollmentCount": 280
+    },
+    {
+      "path":"Data-Science-Machine-Learning-Artificial-Intelligence-300x225.png",
+      "courseName": "Data Science, Machine Learning & Artificial Intelligence Course",
+      "description": "Explore data science, machine learning, and AI.",
+      "duration": "12 months",
+      "instructor": "Sophia Lee",
+      "enrollmentCount": 150
+    },
+    {
+      "path":"Cybersecurity-Fundamentals-300x225.png",
+      "courseName": "Cybersecurity Fundamentals Course",
+      "description": "Gain fundamental cybersecurity skills.",
+      "duration": "3 months",
+      "instructor": "Mark Davis",
+      "enrollmentCount": 90
+    },
+    {
+      "path":"Database-Management-and-SQL-300x225.png",
+      "courseName": "Database Management and SQL Course",
+      "description": "Learn database management and SQL.",
+      "duration": "5 months",
+      "instructor": "Laura Adams",
+      "enrollmentCount": 200
+    },
+    {
+      "path":"DevOps-Cloud-Computing-300x225.png",
+      "courseName": "DevOps + Cloud Computing Course",
+      "description": "Explore DevOps and cloud computing.",
+      "duration": "6 months",
+      "instructor": "Daniel Clark",
+      "enrollmentCount": 180
+    },
+    {
+      "path":"Salesforce-Full-Stack-300x225.png",
+      "courseName": "Salesforce Full Stack Course",
+      "description": "Master Salesforce development.",
+      "duration": "7 months",
+      "instructor": "Alex Turner",
+      "enrollmentCount": 160
+    },
+    {
+      "path":"Embedded-C-C-300x225.png",
+      "courseName": "Embedded Systems with C and C++ Course",
+      "description": "Learn embedded systems with C and C++.",
+      "duration": "6 months",
+      "instructor": "Olivia Moore",
+      "enrollmentCount": 120
+    },
+    {
+      "path":"Software-Testing-300x225.png",
+      "courseName": "Software Testing Course",
+      "description": "Become a software testing expert.",
+      "duration": "4 months",
+      "instructor": "Ryan White",
+      "enrollmentCount": 110
+    },
+    {
+      "path":"Product-Manager-300x225.png",
+      "courseName": "Product Manager Course",
+      "description": "Develop product management skills.",
+      "duration": "5 months",
+      "instructor": "Grace Turner",
+      "enrollmentCount": 90
+    },
+    {
+      "path":"Digital-Marketing-Graphics-Designing-300x225.png",
+      "courseName": "Digital Marketing + Graphics Designing Course",
+      "description": "Explore digital marketing and graphics designing.",
+      "duration": "8 months",
+      "instructor": "Ethan Smith",
+      "enrollmentCount": 220
+    },
+    {
+      "path":"UI-UX-Designer-Product-Designer-300x225.png",
+      "courseName": "UI/UX Designer + Product Designer Course",
+      "description": "Become a UI/UX and product designer.",
+      "duration": "7 months",
+      "instructor": "Sophie Walker",
+      "enrollmentCount": 170
+    },
+    {
+      "path":"PHP-Magento-Full-Stack-300x225.png",
+      "courseName": "PHP + Magento Full Stack Course",
+      "description": "Master PHP and Magento stack development.",
+      "duration": "6 months",
+      "instructor": "Noah Brown",
+      "enrollmentCount": 140
+    }
+  ]
+}

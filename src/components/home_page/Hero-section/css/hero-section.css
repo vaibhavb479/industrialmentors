@@ -1,0 +1,51 @@
+.slide-data{
+    top: 12rem;
+    left: 20rem;
+    
+}
+.carousel-item{
+    height: 35rem;
+}
+.carousel-item img{
+    height: 100%;
+    width: 100%;
+}
+hr{
+    height: 5px;
+    background: black;
+
+}
+.banner{
+    height: 35rem;
+    .banner-text{
+        height: 100%;
+    }
+    
+}
+
+.banner{
+    height: 100%;
+    width: 100% ;
+}
+@media screen and (max-width: 480px) {
+    .banner-text {
+        background-color: #C5DFF8;
+        
+        
+    }
+    .banner-text p {
+        color: #4A55A2;
+    }
+    .banner-text h4{
+        margin: 0% !important;
+        width: 100% !important;
+      }
+     .banner-text hr{
+        margin: 0% !important;
+      }
+     .banner-text p{
+        margin: 0% !important;
+        width: 100% !important;
+      }
+      
+  }
